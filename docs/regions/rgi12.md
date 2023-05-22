@@ -16,7 +16,15 @@ Caucasus and Middle East.
 Glacier locations and changes between RGI6 and RGI7.
 :::
 
-All outlines have been revised by Levan Tielidze (REF?).
+Region introduction
+The Geographic region of the Caucasus and Middle East consists of six different countries - Russia, Georgia, Armenia, Azerbaijan, Turkey, and Iran. The most extensive orographic unit of this region is the Caucasus mountains which consist of two separate mountain systems: the Greater Caucasus and the Lesser Caucasus. The Greater Caucasus is the highest part of the Caucasus region extending for about 1300 km from northwest to southeast between the Black and Caspian seas, while the Lesser Caucasus has located approximately 100 km to the south and is characterized by relatively lower elevations. About 95% of modern glaciers of the Caucasus and Middle East region are concentrated in the Greater Caucasus.
+
+Changes from Version 6.0 to 7.0
+Version 6 of the Randolph Glacier Inventory (RGIv6) for the Greater Caucasus region was created based on ASTER and Landsat imagery from 1999–2004 [Khromova et al., 2016]. The dataset was incomplete and the number and area of glaciers were calculated only for 21 river basins (out of 53). Furthermore, RGIv6 incorporated nominal glaciers (circles covering an area equivalent to glacier size) in the eastern and western Greater Caucasus sections [Tielidze and Wheate, 2018] from the World Glacier Inventory – Extended Format [WGI-XF; Cogley, 2009]. The RGIv6 outlines also involve inconsistent registration, which appears to be associated with the use of ASTER imagery.
+Most of the glacier outlines for the Middle East in RGIv6 were mapped based on the ASTER imagery from 2004-2006 (Turkey) and Landsat scenes from 2011 (Iran). A closer look revealed that most of these outlines were digitized based on snow patches and not actual glaciers.
+
+Dataset for Version 7.0
+The RGIv7 Glacier outlines for the Greater Caucasus were manually digitized by [Tielidze et al., 2022]. The primary source of the database was Landsat scenes from 1999-2002. Glaciers of the Middle East have also been revised in detail and digitized based on Landsat imagery from 1998-2001. Overall, glacier outlines from the Caucasus and Middle East region dates range between 1998 and 2002, with most of the area dating to 2000.
 
 ## Additional information 
 
